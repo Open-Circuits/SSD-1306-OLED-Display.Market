@@ -1,2 +1,3 @@
 - [0.96 inch IIC SPI Serial 7/4Pin White/Blue/Yellow Blue/Yellow OLED Display Module SSD1306 12864 LCD Screen Board for Arduino](https://www.aliexpress.us/item/3256806486516851.html)
 - [0.96 inch IIC SPI Serial 7/4Pin White/Blue/Yellow Blue/Yellow OLED Display Module SSD1306 12864 LCD Screen Board for Arduino](https://www.aliexpress.us/item/3256808780163732.html)
+- [1-10PCS 0.96 Inch OLED Display Module I2C IIC SPI Serial 128X64 SSD1306 LCD 3.3-5V 4 Pin White/Blue/Yellow Blue for Arduino](https://www.aliexpress.us/item/3256808980064232.html)
